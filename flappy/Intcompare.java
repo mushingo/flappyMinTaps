@@ -1,4 +1,4 @@
-package adsa2p2;
+package flappy;
 import java.util.*;
 
 public class Intcompare implements Comparator<Integer> {
